@@ -1,2 +1,2 @@
 def welcome(who: str) -> None:
-  print(f'Hello {who}')
+  print(f'Hello {who} you my friend')
