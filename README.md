@@ -2,7 +2,7 @@
 
 Welcome to my project where I test my knowledge
 
-
+Hi there. THank's for tracking this project
 ## How to use the code
 
 Use it properly
@@ -12,3 +12,4 @@ Use it properly
 * email: 
 * number: 
 * address: 
+
