@@ -4,5 +4,5 @@ def welcome(who: str) -> None:
 def main():
   welcome("marek")
 
-if __mame__ == "__main__":
+if __name__ == "__main__":
   main()
